@@ -54,3 +54,5 @@ Attention, tout le serveur sera ping a l'aide de `@everyone`.
 > **Annonce envoyée**
 > L'annonce que vous avez créee a été envoyée dans le salon `<channel>`.
 > LOGO.png `utilisateur ayant demandé la commande` • `date`  
+
+Cordialement :)
