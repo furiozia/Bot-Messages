@@ -1,1 +1,1 @@
-# ce fichier servira a **BENZOOgataga** afin d'envoyer des suggestions depuis GitHub a **chredeur**.
+# ce fichier servira a __BENZOOgataga__ afin d'envoyer des suggestions depuis GitHub a __chredeur__.
