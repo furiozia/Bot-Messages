@@ -1,7 +1,6 @@
 +annonce `<channel>`  
 
 ## **Caractéristiques:**  
-le placeholder `<channel>` permet au bot de savoir ou poster le message final.
 le placeholder `<channel>` permet au bot de savoir ou poster le message final.  
 
 ## **Messages**  
