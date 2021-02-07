@@ -1,0 +1,7 @@
+> **Candidature Acceptée !**
+> Félicitations {user}, ta candidature pour le poste de {rang} a bien été acceptée.
+> L'email qui nous a été fournie sur le Google Forms a donc été utilisée afin de te rajouter
+> sur le Google Sheets de Furiozia. Ce dernier est très important afin d'obtenir le tableau des
+> sanctions (modèle pour la modération), voic le lien: https://docs.google.com/spreadsheets/d/1ZzNL1kOJWD6_SVObN_bemf09_KY3COD-bKk-s_MLEQ4/edit?usp=sharing
+> 
+> Cordialement, {administrateur} de Furiozia:registered: Network.

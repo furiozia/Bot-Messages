@@ -1,0 +1,11 @@
+Envoyé dans le ticket ouvert par le joueur
+
+
+
+
+> **Nouveau Ticket** - [nom du joueur sans mention]
+> Votre ticket a bien été ouvert, notre équipe de support sera avec vous le plus rapidement possible, merci de votre patience.
+> 
+> Demande de support:
+> [message envoyé par le joueur dans #✅・support]
+> Ticket ouvert le [date format DD/MM/yyyy HH:mm] par [nom du joueur sans mention]

@@ -1,0 +1,10 @@
+Envoyé en message privé 
+
+
+
+
+{user.mention}
+> **Requête acceptée**
+> Félicitations, votre requête pour le rang de `nom du rang` a
+> été acceptée par un Administrateur.
+> Furiozia:registered: - https://discord.gg/uGZz5sp

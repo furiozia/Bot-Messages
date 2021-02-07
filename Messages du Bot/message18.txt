@@ -1,0 +1,9 @@
+Envoyé dans le channel ou la commande a été effectuée
+
+
+
+
+> **Liste blanche**
+> La liste blanche à bien été mise en place !
+> Seul les utilisateurs présents sur le serveur et
+> ceux présents sur la liste blanche peuvent rejoindre.

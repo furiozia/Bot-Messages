@@ -1,0 +1,7 @@
+envoyé dans "mod-logs" 797500880659808286
+
+
+
+> **Acte de modération enregistré**
+> {modérateur} a {type de sanction} {sanctionné} le {date} a {heure}
+> {modérateur} - {modérateur.user.id}

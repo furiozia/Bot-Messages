@@ -1,0 +1,11 @@
+Envoyé en privé au modérateur ayant activé la whitelist
+
+
+
+
+> **Liste blanche**
+> {user.mention}, vous avez bien mis en place la
+> liste blanche, seul les utilisateurs présents sur le serveur et
+> ceux présents sur la liste blanche peuvent rejoindre.
+> 
+> Pour afficher les membres autorisés a rejoindre, tapez +whitelist list

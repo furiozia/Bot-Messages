@@ -1,0 +1,10 @@
+envoyé en message privé 
+
+
+
+
+{user.mention}
+> **Requête refusée**
+> Nous sommes désolés mais votre requête pour le rang de `nom du rang` a
+> été refusée par un Administrateur. 
+> Furiozia:registered: - https://discord.gg/uGZz5sp

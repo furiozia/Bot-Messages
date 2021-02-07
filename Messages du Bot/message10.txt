@@ -1,0 +1,6 @@
+{user.mention}
+> **Liens important**:
+> • Trello Discord Bot: https://trello.com/b/yq8pXRcI/discord-bot
+> • Trello VPS: https://trello.com/b/nKu7Frvg/furiozia-vps
+> • Lien Discord: https://discord.gg/uGZz5sp
+> • Bots discord: https://149.91.83.52/

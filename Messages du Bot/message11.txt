@@ -1,0 +1,9 @@
+envoyé dans #requêtes 
+
+
+
+
+> **Nouvelle requête de rang**
+> Joueur: {user.mention}
+> Demande: <@&729478189008551957> 
+> {user} - ID

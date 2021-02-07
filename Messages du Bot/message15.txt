@@ -1,0 +1,10 @@
+Envoyé dans #requêtes 
+
+
+
+
+> **Signalement de joueur**
+> Signalé: {user.mention}
+> Signaleur: {user.mention}
+> Raison: `{reason}` 
+> Signalé le **01/01/2020** à **hh:mm:ss** :arrow_left: *footer*
