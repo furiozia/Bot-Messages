@@ -1,7 +1,1 @@
-Message envoyé lors de l'exécution de la commande +slowmode <temps>
-
-
-
-
-> **SlowMode activé**
-> Le mode lent a été activé pour le canal [channel mention] et a été réglé sur [temps set].
+[{"msg1": "> **SlowMode activé**\n> Le mode lent a été activé pour le canal [channel mention] et a été réglé sur [temps set]."}]
