@@ -1,1 +1,1 @@
-[{"texte1": "Le mode lent a été activé pour le canal {ctx.channel.name} et a été réglé sur {seconds}s!"}]
+[{"texte1": "Le mode lent a été activé pour le canal {} et a été réglé sur {}s!"}]
