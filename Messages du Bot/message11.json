@@ -1,1 +1,1 @@
-[{"msg1": "> **Nouvelle requête de rang**\n> Joueur: {user.mention}\n> Demande: [rang] \n> {user} - ID"}]
+[{"msg1": [{"title": "**Nouvelle requête de rang**"}, {"description": "Joueur: {user.mention}\nDemande: [rang]"}], {"footer": "{user} - ID"}]]
