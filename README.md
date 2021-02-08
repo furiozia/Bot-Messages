@@ -9,3 +9,4 @@ Indisponible, en cours de création...
 ### Liens utiles  
 Lien du discord officiel: http://discord.furiozia.net/  
 Lien du Repository GitHub: https://github.com/furiozia/Bot-Messages  
+Lien du Trello Discord Bot: https://trello.com/b/yq8pXRcI/discord-bot  
