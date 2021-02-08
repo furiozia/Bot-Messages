@@ -1,5 +1,5 @@
 [{"msg1": [{"title": "**Nouvelle requête de rang**"}, {"description": "Joueur: {user.mention}\nDemande: test"}, {"footer": "{user} - ID"}]}]
 
-[{"msg1": [{"title": "**Requête refusée**"}, {"description": "Nous sommes désolés mais votre requête pour le rang de `rang` a été refusée par un Administrateur."}, {"footer": "Furiozia:registered: - https://discord.gg/uGZz5sp"}]}]
+[{"msg2": [{"title": "**Requête refusée**"}, {"description": "Nous sommes désolés mais votre requête pour le rang de `rang` a été refusée par un Administrateur."}, {"footer": "Furiozia:registered: - https://discord.gg/uGZz5sp"}]}]
 
-[{"msg1": "{user.mention}\n> **Requête acceptée**\n> Félicitations, votre requête pour le rang de [rang] a\n> été acceptée par un Administrateur.\n> Furiozia:registered: - https://discord.gg/uGZz5sp"}]
+[{"msg3": "{user.mention}\n> **Requête acceptée**\n> Félicitations, votre requête pour le rang de [rang] a\n> été acceptée par un Administrateur.\n> Furiozia:registered: - https://discord.gg/uGZz5sp"}]
