@@ -1,1 +1,1 @@
-[{"msg1": [{"title": "❌ Erreur", "description": "**L'argument 3 doit étre supérieur a 0**"}]}]
+[{"msg1": [{"title": "❌ Erreur", "description": "**L'argument 3 doit étre supérieur a 0**"}], "msg2": [{"title": "Random Number Generator", "field1": [{"title": "**Résultat Généré:**", "description": "%1"}]}]}]
