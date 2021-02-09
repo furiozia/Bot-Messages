@@ -1,1 +1,1 @@
-[{"msg1": [{"title": "❌ Erreur"}, {"description": "**Vous ne pouvez pas envoyer de commandes dans ce channel**"}, {"footer": "[footer de base]"}]}]
+[{"msg1": ["title": "❌ Erreur", "description": "**Vous ne pouvez pas envoyer de commandes dans ce channel**"]}]
