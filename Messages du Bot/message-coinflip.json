@@ -1,1 +1,10 @@
-[{"msg1": [{"title": "Coinflip: ", "description": "**J'ai lancé la pièce !**\n**C'est tombé sur:** %1"}]}]
+[
+ {
+  "msg1": [
+   {
+    "description": "**J'ai lanc\u00e9 la pi\u00e8ce !**\n**C'est tomb\u00e9 sur:** %1",
+    "title": "Coinflip: "
+   }
+  ]
+ }
+]
