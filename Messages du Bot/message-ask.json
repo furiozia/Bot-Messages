@@ -2,91 +2,91 @@
  {
   "msg1": [
    {
-    "description": "**cooldown**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**cooldown**"
    }
   ],
   "msg10": [
    {
-    "description": "**Vous avez déja le role ami !**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Vous avez déja le role ami !**"
    }
   ],
   "msg11": [
    {
-    "description": "**Demmande** ``%1`` **non trouvé !**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Demmande** ``%1`` **non trouvé !**"
    }
   ],
   "msg12": [
    {
+    "title": "Requête acceptée",
     "description": "Félicitations, votre requête pour le rang de `%1` a \nété acceptée par un Administrateur.",
-    "footer": "Furiozia® - https://discord.gg/wphQREb",
-    "title": "Requête acceptée"
+    "footer": "Furiozia® - https://discord.gg/wphQREb"
    }
   ],
   "msg13": [
    {
+    "title": "Requête de rang",
     "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `acceptée`",
-    "footer": "Demmande acceptée par %1",
-    "title": "Requête de rang"
+    "footer": "Demmande acceptée par %1"
    }
   ],
   "msg14": [
    {
+    "title": "Requête refusée",
     "description": "Nous sommes désolés mais votre requête pour le rang de `%1` a \nété refusée par un Administrateur.",
-    "footer": "Furiozia® - https://discord.gg/wphQREb",
-    "title": "Requête refusée"
+    "footer": "Furiozia® - https://discord.gg/wphQREb"
    }
   ],
   "msg15": [
    {
+    "title": "Requête de rang",
     "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `refusée`",
-    "footer": "Demmande refusée par %1",
-    "title": "Requête de rang"
+    "footer": "Demmande refusée par %1"
    }
   ],
   "msg2": [
    {
-    "description": "**Vous ne pouvez pas faire de demmande (ask **`false`**)**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Vous ne pouvez pas faire de demmande (ask **`false`**)**"
    }
   ],
   "msg3": [
    {
-    "description": "**Tu a dêja une demmande ouvert !**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Tu a dêja une demmande ouvert !**"
    }
   ],
   "msg4": [
    {
-    "description": "**Vous ne pouvez pas faire de demmande (:D)**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Vous ne pouvez pas faire de demmande (:D)**"
    }
   ],
   "msg5": [
    {
-    "description": "**Voici la liste des role que vous pouvez demander :**`Youtube, Ami`",
-    "title": "Liste ask"
+    "title": "Liste ask",
+    "description": "**Voici la liste des role que vous pouvez demander :**`Youtube, Ami`"
    }
   ],
   "msg6": [
    {
-    "description": "**Veuillez donner une reason a votre demande !**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Veuillez donner une reason a votre demande !**"
    }
   ],
   "msg7": [
    {
-    "description": "**Vous avez dêja le role youtube !**",
-    "title": "❌ Erreur"
+    "title": "❌ Erreur",
+    "description": "**Vous avez dêja le role youtube !**"
    }
   ],
   "msg8": ":white_check_mark: Votre demande a bien été prise en compte !",
   "msg9": [
    {
-    "description": "Joueur: %1\nDemande: %2 \nReason: %3\nÉtat: `attente`",
-    "title": "Nouvelle requête de rang"
+    "title": "Nouvelle requête de rang",
+    "description": "Joueur: %1\nDemande: %2 \nReason: %3\nÉtat: `attente`"
    }
   ]
  }
