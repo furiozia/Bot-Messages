@@ -6,46 +6,6 @@
     "description": "**cooldown**"
    }
   ],
-  "msg10": [
-   {
-    "title": "❌ Erreur",
-    "description": "**Vous avez déja le role ami !**"
-   }
-  ],
-  "msg11": [
-   {
-    "title": "❌ Erreur",
-    "description": "**Demmande** ``%1`` **non trouvé !**"
-   }
-  ],
-  "msg12": [
-   {
-    "title": "Requête acceptée",
-    "description": "Félicitations, votre requête pour le rang de `%1` a \nété acceptée par un Administrateur.",
-    "footer": "Furiozia® - https://discord.gg/wphQREb"
-   }
-  ],
-  "msg13": [
-   {
-    "title": "Requête de rang",
-    "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `acceptée`",
-    "footer": "Demmande acceptée par %1"
-   }
-  ],
-  "msg14": [
-   {
-    "title": "Requête refusée",
-    "description": "Nous sommes désolés mais votre requête pour le rang de `%1` a \nété refusée par un Administrateur.",
-    "footer": "Furiozia® - https://discord.gg/wphQREb"
-   }
-  ],
-  "msg15": [
-   {
-    "title": "Requête de rang",
-    "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `refusée`",
-    "footer": "Demmande refusée par %1"
-   }
-  ],
   "msg2": [
    {
     "title": "❌ Erreur",
@@ -87,6 +47,46 @@
    {
     "title": "Nouvelle requête de rang",
     "description": "Joueur: %1\nDemande: %2 \nReason: %3\nÉtat: `attente`"
+   }
+  ],
+  "msg10": [
+   {
+    "title": "❌ Erreur",
+    "description": "**Vous avez déja le role ami !**"
+   }
+  ],
+  "msg11": [
+   {
+    "title": "❌ Erreur",
+    "description": "**Demmande** ``%1`` **non trouvé !**"
+   }
+  ],
+  "msg12": [
+   {
+    "title": "Requête acceptée",
+    "description": "Félicitations, votre requête pour le rang de `%1` a \nété acceptée par un Administrateur.",
+    "footer": "Furiozia® - https://discord.gg/wphQREb"
+   }
+  ],
+  "msg13": [
+   {
+    "title": "Requête de rang",
+    "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `acceptée`",
+    "footer": "Demmande acceptée par %1"
+   }
+  ],
+  "msg14": [
+   {
+    "title": "Requête refusée",
+    "description": "Nous sommes désolés mais votre requête pour le rang de `%1` a \nété refusée par un Administrateur.",
+    "footer": "Furiozia® - https://discord.gg/wphQREb"
+   }
+  ],
+  "msg15": [
+   {
+    "title": "Requête de rang",
+    "description": "Joueur: %1\nDemande: %2 \nReason: %3État: `refusée`",
+    "footer": "Demmande refusée par %1"
    }
   ]
  }
