@@ -7,6 +7,12 @@
     "title": "**La syntaxe est incorrecte !**",
     "description": "+slowmode <Temps en seconde>"
    }
-  ]
+  ],
+  "msg4": [ 
+   {
+    "title": "**❌ Erreur**",
+    "description": "Vous n'avez pas l'autorisation d'utiliser commande !"
+   }
+  ],
  }
 ]
