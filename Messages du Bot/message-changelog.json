@@ -13,7 +13,7 @@
     "v0.9.9": [
      {
       "title": "Change Log — 18.02.2021",
-      "description": "• Ajout de la commande **+trello**\n• Ajout de la commande **+tgetchecklist**\n• Ajout d'un systeme des message via github"
+      "description": "• Ajout de la commande **+trello**\n• Ajout de la commande **+tgetchecklist**\n• Ajout d'un systeme de message via github grasse a des fichier json"
      }
     ]
    }
