@@ -6,14 +6,14 @@
    {
     "v1.0.0": [
      {
-      "title": "**Change Log — 19.02.2021**",
-      "description": "test"
+      "title": "Change Log — 19.02.2021",
+      "description": "• Ajout de la commande **+changelogs**\n• Correction de bugs \n• Changement du status du bot pour intégrer le systeme de changelogs\n• Avancement sur le systeme de message json\n•Ajout des nouvelle commande dans le +help"
      }
     ],
     "v0.9.9": [
      {
-      "title": "**Change Log — 18.02.2021**",
-      "description": "Trade"
+      "title": "Change Log — 18.02.2021",
+      "description": "• Ajout de la commande **+trello**\n• Ajout de la commande **tgetchecklist**\nAjout d'un systeme des message via github"
      }
     ]
    }
