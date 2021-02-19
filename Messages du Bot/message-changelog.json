@@ -3,18 +3,18 @@
   "Laste-Version": "1.0.0",
   "All-Changelogs": [
    {
-   "v1.0.0": [
-    {
-     "title": "**Change Log — 19.02.2021**",
-     "description": "test"
-    }
-   ],
-   "v0.9.9": [
-    {
-     "title": "**Change Log — 18.02.2021**",
-     "description": "Trade"
-    }
-   ]
+    "v1.0.0": [
+     {
+      "title": "**Change Log — 19.02.2021**",
+      "description": "test"
+     }
+    ],
+    "v0.9.9": [
+     {
+      "title": "**Change Log — 18.02.2021**",
+      "description": "Trade"
+     }
+    ]
    }
   ]
  }
